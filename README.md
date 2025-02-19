@@ -1,46 +1,45 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Mohamed Sharbag 👨‍💻 Back-End Developer</h1>
+<h3 align="center">A passionate Backend Developer (Node.js & .NET)</h3>
+<p align="left">
+  Hi, I'm Mohamed Sharbag, a graduate from the Benha Faculty of Computers and Artificial Intelligence. I'm passionate about backend development, specializing in Node.js while currently learning .NET. I'm always eager to work on building scalable, secure, and efficient backend solutions.
+</p>
 
-I'm **Muhammed Sharbag**, a passionate **Web Developer** and a **Node.js & JavaScript Enthusiast**. I'm focused on building efficient applications using modern technologies. Let's connect and create something amazing together!
+- 💌 How to reach me *[sharbagm@gmail.com](mailto:sharbagm@gmail.com)*
+- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> </p>
 
-## ASCII Art
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
 
-```
-                  _                                        _     _                _                 
-  _ __ ___  _   _| |__   __ _ _ __ ___  _ __ ___   ___  __| |___| |__   __ _ _ __| |__   __ _  __ _ 
- | '_ ` _ \| | | | '_ \ / _` | '_ ` _ \| '_ ` _ \ / _ \/ _` / __| '_ \ / _` | '__| '_ \ / _` |/ _` |
- | | | | | | |_| | | | | (_| | | | | | | | | | | |  __/ (_| \__ \ | | | (_| | |  | |_) | (_| | (_| |
- |_| |_| |_|\__,_|_| |_|\__,_|_| |_| |_|_| |_| |_|\___|\__,_|___/_| |_|\__,_|_|  |_.__/ \__,_|\__, |
-                                                                                              |___/ 
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  </a> 
+</p>
 
-## About Me
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedsharbag&show_icons=true&locale=en&layout=compact" alt="muhammedsharbag" />
+</p>
 
-🎓 I graduated with a degree in Computer Science and have a keen interest in full-stack web development. I primarily work with **Node.js**, **JavaScript**, and **MongoDB** to build RESTful APIs and dynamic applications. Based in an undisclosed location, I am always eager to learn and grow in this fast-paced tech world.
-
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,vercel,heroku,mongodb,mysql,git,github,cpp,html,css,vscode,postman,phpstorm,visualstudio,androidstudio,dotnet&perline=8)](https://skillicons.dev)
-
-## Top Projects
-
-
-
-## GitHub Stats
-📊 **Public Repositories:** 1  
-👥 **Followers:** 0  
-🔗 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedsharbag&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsharbag&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Recent Activity
-
-- 🆕 [Update .env](https://github.com/muhammedsharbag/Saraha-app-Node.js/commit/6f686d629e0aae21ccfbeb11c43bac5a75d5f03f) in [Saraha-app-Node.js](https://github.com/muhammedsharbag/Saraha-app-Node.js) on 2025-02-09
-
-## Latest Blog Posts
-
-No blog posts yet.
-
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/muhammad-sharbag-45aa04281" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsharbag&" alt="muhammedsharbag" />
+</p>
