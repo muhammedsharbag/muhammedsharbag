@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sharbag 👨‍💻 Back-End Developer</h1>
 <h3 align="center">A passionate Backend Developer (Node.js & .NET)</h3>
 <p align="left">
-  Hi, I'm Mohamed Sharbag, a graduate from the Benha Faculty of Computers and Artificial Intelligence. I'm passionate about backend development, specializing in Node.js while currently learning .NET. I'm always eager to work on building scalable, secure, and efficient backend solutions.
+  Hi, I'm Mohamed Sharbag, a graduate from  Benha Faculty of Computers and Artificial Intelligence. I'm passionate about backend development, specialized in Node.js while currently learning .NET. I'm always eager to work on building scalable, secure, and efficient backend solutions.
 </p>
 
 - 💌 How to reach me *[sharbagm@gmail.com](mailto:sharbagm@gmail.com)*
